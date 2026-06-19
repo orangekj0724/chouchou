@@ -46,7 +46,7 @@ def check_sale(url):
     soup = BeautifulSoup(res.text, "html.parser")
 
     # 🔥 핵심: 취소선 가격 (정가) 있으면 세일
-    if soup.select_one("del"):
+    if soup.select_one("strike"):
         return True
 
     return False
