@@ -11,12 +11,16 @@ from bs4 import BeautifulSoup
 PRODUCTS = [
     {
         "name": "앤 레이스팬츠 블랙",
-        "url": "https://chouchoushasha.com/product/%EC%95%A4-%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%8C%AC%EC%B8%A0-%EB%B8%94%EB%9E%99/4185/category/62/display/1/",
+        "url": "https://chouchoushasha.com/product/%EC%95%A4-%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%8C%AC%EC%B8%A0-%EB%A0%88%EB%93%9C/4186/category/62/display/1/",
     },
     {
         "name": "레이스 체크 프릴탑 블루",
-        "url": "https://chouchoushasha.com/product/%EB%A0%88%EC%9D%B4%EC%8A%A4-%EC%B2%B4%ED%81%AC-%ED%94%84%EB%A6%B4%ED%83%91-%EB%B8%94%EB%A3%A8/4399/category/53/display/1/",
-    }
+        "url": "https://chouchoushasha.com/product/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC-%EC%85%94%EB%A7%81-%ED%83%91-%ED%95%91%ED%81%AC/4387/category/24/display/1/",
+    },
+    {
+        "name": "보네뜨 블라우스 -블랙",
+        "url": "https://chouchoushasha.com/product/%EB%B3%B4%EB%84%A4%EB%9C%A8-%EB%B8%94%EB%9D%BC%EC%9A%B0%EC%8A%A4-%EB%B8%94%EB%9E%99/4234/category/24/display/1/",
+    },
 ]
 
 # ==============================
